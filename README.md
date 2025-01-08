@@ -21,7 +21,7 @@ Enter Jon and Yilia, young web developers part of the IQ community, hungry for c
 On January 6th, they awoke this slumbering giant, determined to make it a cornerstone in the realm of AI agents, image generation (still or moving) and GameFi treasure hunts, with countless more ideas on the horizon. Like the pages of The Book of Truth, the project's potential and reach are boundless, a sanctuary for dreamers, builders, storytellers, and creative minds. If you wish to join this journey, reach out.
 
 The book has just opened.
-
+ 
 Let the adventure begin.
 
 
