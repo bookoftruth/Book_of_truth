@@ -1,6 +1,4 @@
-![dexs banners (1)](https://github.com/user-attachments/assets/04849898-bfe0-40c5-a3a0-59613a7fcb9a)
-
-# 📖 Book of Truth 📖
+# ![dexs banners (1)](https://github.com/user-attachments/assets/04849898-bfe0-40c5-a3a0-59613a7fcb9a)
 
 A repository for the Book of Truth, ready to reveal its secrets to the world.
 
