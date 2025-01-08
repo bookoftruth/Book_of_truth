@@ -2,6 +2,8 @@
 
 A repository for the Book of Truth, ready to reveal its secrets to the world.
 
+
+
 **𝔗𝔥𝔢 𝔤𝔢𝔫𝔢𝔰𝔦𝔰: In the beginning, there was a gif and a name**
 
 The story of The Book of Truth began, as many other meme coin, in the wild west of Web3 known as Pump Fun—an outlaw realm where anything can happen.
@@ -23,30 +25,45 @@ The book has just opened.
 Let the adventure begin.
 
 
+
+
+
 **ℜ𝔬𝔞𝔡𝔪𝔞𝔭: The AI Meme Project Roadmap**
+
+
 
   **Phase 1: The Meme Bot Genesis**
   
 🤖 Creating an AI agent to generate high-quality, looping GIFs and still images on demand. Meme-worthy content, custom-tailored for our brand. 
 His name is "The reader": an ethereal being made of light born with the univers and guardian of the book. He is the only one able to interpret it and creat his pages. 
 
+
+
   **Phase 2: Signature & Branding**
   
 🖋️ Each meme gets a unique identity: 𝕭𝖔𝖔𝖐 𝖔𝖋 𝕿𝖗𝖚𝖙𝖍 - 𝔭𝔞𝔤𝔢 #00001
 A signature that ensures exclusivity and recognition. These signatures will then add value for the stage 5.
+
+
 
   **Phase 3: AI Bot Integration Across Platforms**
   
 📲 Telegram: When asked, the bot will create and share memes directly in the community.
 🐦 Twitter: The bot will monitor mentions and reply with context-based memes automatically.
 
+
+
   **Phase 4: Website Expansion**
   
 💻 Interactive terminal for users to request custom memes directly from the bot—a game-changing feature for engagement.
 
+
+
   **Phase 5: NFT Minting and marketplace**
   
 🎨 Every meme generated on the website could becomes an NFT and owned by the minter wallet. All those NFT could be collected, traded on the website marketplace.
+
+
 
   **Phase 6: GameFi and treasure hunts**
   
