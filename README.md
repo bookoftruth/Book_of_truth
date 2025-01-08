@@ -3,7 +3,7 @@
 A repository for the Book of Truth, ready to reveal its secrets to the world.
 
 
-
+ 
 **𝔗𝔥𝔢 𝔤𝔢𝔫𝔢𝔰𝔦𝔰: In the beginning, there was a gif and a name**
 
 The story of The Book of Truth began, as many other meme coin, in the wild west of Web3 known as Pump Fun—an outlaw realm where anything can happen.
