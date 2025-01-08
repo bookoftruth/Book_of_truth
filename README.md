@@ -4,7 +4,7 @@ A repository for the Book of Truth, ready to reveal its secrets to the world.
 
 
  
-# 𝔗𝔥𝔢 𝔤𝔢𝔫𝔢𝔰𝔦𝔰
+# 🧬 𝔗𝔥𝔢 𝔤𝔢𝔫𝔢𝔰𝔦𝔰
 
 **In the beginning, there was a gif and a name**
 
@@ -30,7 +30,7 @@ Let the adventure begin.
 
 
 
-# ℜ𝔬𝔞𝔡𝔪𝔞𝔭
+# 🗺 ℜ𝔬𝔞𝔡𝔪𝔞𝔭
 
 **The AI Meme Project Roadmap**
 
